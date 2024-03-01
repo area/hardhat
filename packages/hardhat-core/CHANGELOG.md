@@ -1,5 +1,11 @@
 # hardhat
 
+## 2.20.2
+
+### Patch Changes
+
+- 6b6f447: Fixes a bug in Hardhat where Post-Cancun genesis blocks did not use the mandated 0x0 parent beacon block root (https://eips.ethereum.org/EIPS/eip-4788)
+
 ## 2.20.1
 
 ### Patch Changes
