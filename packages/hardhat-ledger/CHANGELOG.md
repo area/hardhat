@@ -1,5 +1,14 @@
 # @nomicfoundation/hardhat-ledger
 
+## 1.0.3
+
+### Patch Changes
+
+- 4912563: Internal restructuing to better support cli UI updates from other Hardhat plugins
+- Updated dependencies [0d07d8d]
+- Updated dependencies [6466e3a]
+  - hardhat@2.22.3
+
 ## 1.0.2
 
 ### Patch Changes
